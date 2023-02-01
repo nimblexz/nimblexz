@@ -1,15 +1,13 @@
-# Привет всем! Меня зовут Миран👋
-## Я Junior Frontend разработчик
-
-- В данный момент я работаю в стартапе AlimPlatform
+# Привет всем! Меня зовут Эмиль👋
+## Я Frontend разработчик
 
 - Как со мной связаться:   
-Телеграм - @mrnkzrn  
-Вконтакте - [*Миран Казарян*](https://vk.com/mrnkzrn)  
+Телеграм - @nimblexz  
+Вконтакте - [*Эмиль Хайрулин*](https://vk.com/nimblex)  
 
 ## Статистика 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MiranKazaryan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MiranKazaryan github stats" /></a> | <a href="https://github.com/MiranKazaryan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiranKazaryan&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nimblexz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="nimblexz github stats" /></a> | <a href="https://github.com/nimblexz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimblexz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### Навыки и языки:
