@@ -7,8 +7,8 @@
 
 ## Статистика 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nimblexz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="nimblexz github stats" /></a> | <a href="https://github.com/nimblexz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimblexz&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/nimblexz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimblexz&layout=compact&theme=buefy&hide_border=true" /></a>
+
 
 ### Навыки и языки:
 <img align="left" alt="Angular" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" />
