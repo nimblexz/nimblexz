@@ -15,6 +15,8 @@
 
 <img align="left" alt="React" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
 
+<img align="left" alt="TypeScript" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" />
+
 <img align="left" alt="JavaScript" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
 
 <img align="left" alt="CSS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
