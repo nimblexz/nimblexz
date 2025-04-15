@@ -11,6 +11,8 @@
 | ------------- | ------------- |
 
 ### Навыки и языки:
+<img align="left" alt="Angular" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" />
+
 <img align="left" alt="React" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
 
 <img align="left" alt="JavaScript" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
